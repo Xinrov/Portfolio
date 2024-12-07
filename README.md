@@ -21,7 +21,13 @@ This paper aims to determine the relationship between carbon emissions and firm 
 
 This research paper explores Japan's declining consumer confidence due to significant global economic shocks like the COVID-19 pandemic, which may affect policy implementation effectiveness. A Vector Autoregression model was implemented to capture the joint dynamics of consumer confidence and various sub-indices. 
 
- 
+
+## Data Science Projects
+- **[Feature Selection and Data Handling Methods on the MBA Dataset](https://github.com/Xinrov/Portfolio/blob/main/Data%20Science%20Projects/Feature_Selection_and_Data_Handling_Methods_on_the_MBA_Dataset.ipynb)**
+
+This project exercise aims to conduct Data Exploration and Preprocessing on the MBA Dataset which has missing values, outliers, imbalanced dataset, and irrelevant features. Proper techniques and feature selection methods are employed to further refine the dataset and features.
+
+
 ## Core Competencies
 **Softwares:** Docs, Sheets, PowerPoint, RStudio, STATA
 

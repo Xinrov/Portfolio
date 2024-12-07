@@ -3,6 +3,12 @@ Hello! Welcome to my GitHub Portfolio! Below are some of my projects that I have
 
 ---
 
+## Achievements
+
+- **Archer Achievers Scholarship:** Given to top DLSU College Admission Test (DCAT) performers. 100% waived on tuition and fees for the whole academic course. Automatically exempted from foundation courses that are required in the freshman curriculum
+- **Outstanding Undergraduate Thesis Award:** Given to best performing thesis groups by the Department of Economics. Awarded a perfect grade from thesis advisors and offered publication in DLSU-AKI.
+- **1st Dean’s Lister for all trimesters**
+
 ## Publication
 [The Effect of Carbon Emissions on Free Cash Flow and Tobin’s Q of Publicly Listed Firms in the ASEAN-5](https://animorepository.dlsu.edu.ph/res_aki/209/)
 

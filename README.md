@@ -1,5 +1,5 @@
 # Personal Portfolio - Norvin Nimiel Dela Cruz
-Hello! Welcome to my GitHub Portfolio! Below are some of my projects that I have done throughout my Applied Financial Economics minor in Data Science course.
+Hello! Welcome to my GitHub Portfolio! Below are some of my information, projects, and papers that I have done throughout my Applied Financial Economics minor in Data Science course.
 
 ---
 
